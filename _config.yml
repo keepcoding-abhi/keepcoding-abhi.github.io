@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abhishek Sanjay Sonawane"
   avatar           : "AbhishekSonawaneProfilePhoto.jpg"
-  bio              : "Graduate Student in Computer Science at Arizona State University"
+  bio              : "Computer Science Graduate Student at Arizona State University"
   location         : "Tempe, AZ"
   employer         :
   pubmed           : # exmample: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/keepcoding-abhi"
+  github           : "keepcoding-abhi"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/takeiteasy_abhi/"
+  instagram        : "takeiteasy_abhi"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/asonawane1802"
+  linkedin         : "asonawane1802"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  academic-projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -240,6 +243,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _talks
+  - scope:
+      path: ""
+      type: academic-projects
     values:
       layout: talk
       author_profile: true

@@ -36,8 +36,11 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.startDate %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.startDate}} to {{ post.endDate}}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.techUsed %}
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>{{post.techUsed}}</p>
+    {% endif %}
+<!--    {% if post.startDate %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.startDate}} to {{ post.endDate}}</p>{% endif %}-->
+    {% if post.instructor %}<p class="archive__item-excerpt" itemprop="description"><span style="display:left;">{{post.instructor}},  {{post.location}}</span><span style="float:right;"><i class="fa fa-clock-o" aria-hidden="true">{{ post.startDate}} to {{ post.endDate}}</i></span></p> {% endif %}
+    {{post.content}}
   </article>
 </div>
