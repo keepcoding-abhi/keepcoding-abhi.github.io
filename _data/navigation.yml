@@ -3,23 +3,20 @@ main:
 #  - title: "Professional Experience"
 #    url: /publications/
 
+#  - title: "Talks"
+#    url: /talks/
+
   - title: "Professional Experience"
-    url: /talks/
+    url: /professional-experiences/
+
+  - title: "Education"
+    url: /education/
 
   - title: "Academic Projects"
     url: /academic-projects/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
+#  - title: "Guide"
+#    url: /markdown/

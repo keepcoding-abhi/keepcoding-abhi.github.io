@@ -190,6 +190,12 @@ collections:
   academic-projects:
     output: true
     permalink: /:collection/:path/
+  professional-experience:
+      output: true
+      permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
