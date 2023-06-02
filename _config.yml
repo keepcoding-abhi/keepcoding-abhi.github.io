@@ -199,6 +199,9 @@ collections:
   extracurricular:
     output: true
     permalink: /:collection/:path/
+  blogposts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -278,6 +281,14 @@ defaults:
   - scope:
       path: ""
       type: extracurricular
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  - scope:
+      path: ""
+      type: blogposts
     values:
       layout: talk
       author_profile: true
