@@ -196,6 +196,9 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
+  extracurricular:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -257,6 +260,24 @@ defaults:
   - scope:
       path: ""
       type: academic-projects
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  # _talks
+  - scope:
+      path: ""
+      type: professional-experience
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+  # _talks
+  - scope:
+      path: ""
+      type: extracurricular
     values:
       layout: talk
       author_profile: true
