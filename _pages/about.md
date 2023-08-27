@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a Master of Science degree in Computer Science at Arizona State University and expecting to graduate in May 2024. I have demonstrated experience in developing solutions to diverse real world problems with the power of computer science. My interests lie in full-stack software development, cloud computing and machine learning.
+I am pursuing a Master of Science degree in Computer Science at Arizona State University and expecting to graduate in May 2024. I have demonstrated experience in developing solutions to diverse real world problems with the power of computer science. My interests lie in full-stack software development, data science, machine learning and cloud computing.
 
-During my tenure as a Software Engineer at eQ Technologic (India) Pvt. Ltd. I developed connectors that allowed the services of eQube Data-as-a-Service (DaaS) platform to be leveraged on Neo4j GraphDB, Deltek Costpoint and Polarion Application Lifecycle Management Software based on the requirements of enterprises from different parts of the world.
+As a Software Engineer at eQ Technologic (India) Pvt. Ltd., I extended the range of applications on which the eQube Data as a Service platform can be leveraged by adding 3 new applications - Neo4j GraphDB, Deltek Costpoint ERP and Polarion ALM Software - which helped the company sign 4 new deals.
 
-In my undergraduate studies, I did an internship at Ryussi Technologies Pvt. Ltd. The company offers a file server called MoSMB which supported on-premises data storage. I developed a solution that provided the clients of MoSMB the option of storing the data on different cloud-based object storage platforms like Amazon Web Services' Simple Storage Service (AWS S3) and Google Cloud Platform's Cloud Storage (GCP Cloud Storage), and also on MinIO native object storage.
+During an undergraduate internship at Ryussi Technologies Pvt. Ltd., I enhanced the company's flagship product by making it compatible with multiple cloud services for storage purposes like Amazon Web Services and Google Cloud Platform. Thereby opening new frontiers for the company to market their product among small and mid-sized businesses who cannot afford on-premise storage infrastructure.
 
-Currently, I am working as a summer intern in Software Development at DISH Networks in Denver, CO. I am also looking for Software Engineering internship opportunities in Fall 2023 and full-time roles starting May 2024. Please reach out to me on assonaw1@asu.edu if you have any relevant positions in your organization. Thank you so much for visiting my website!
+In Summer 2023 I interned at DISH Network and worked on reducing the time required to resolve errors related to incorrect metadata of movies and shows being displayed on steaming services like Sling TV and Satellite TV. My solution was able to bring down the turnaround time by up to 50%.
+
+Apart from these industrial experiences I have worked on several exciting project in the academia and their details can be found in the "Academic Projects" tab.
+
+Currently, I am actively searching for full time Software Development opportunities starting Summer 2024. Please reach out to me on assonaw1@asu.edu if you have any leads or any feedback about this website. Thank you so much for visiting my website!
