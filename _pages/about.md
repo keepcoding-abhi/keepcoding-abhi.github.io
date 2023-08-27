@@ -10,7 +10,7 @@ redirect_from:
 
 I am pursuing a Master of Science degree in Computer Science at Arizona State University and expecting to graduate in May 2024. I have demonstrated experience in developing solutions to diverse real world problems with the power of computer science. My interests lie in full-stack software development, data science, machine learning and cloud computing.
 
-Technical Skills : <i>Java, Javascript, C, C++, Python, Kotlin, Golang, PHP, R, HTML, CSS, MySQL, Neo4j Graph DB, Amazon Web Services (AWS), Google Cloud Platform (GCP), React, Node.js, D3.js, Tensorflow, Keras, pandas, NumPy, Scikit-learn</i>
+Technical Skills : <i>Java, Javascript, C, C++, Python, Kotlin, Golang, PHP, R, HTML, CSS, MySQL, Neo4j Graph DB, Amazon Web Services (AWS), Google Cloud Platform (GCP), React, Node.js, D3.js, Tensorflow, Keras, pandas, NumPy, Scikit-learn, Git, Subversion</i>
 
 As a Software Engineer at eQ Technologic (India) Pvt. Ltd., I extended the range of applications on which the eQube Data as a Service platform can be leveraged by adding 3 new applications - Neo4j GraphDB, Deltek Costpoint ERP and Polarion ALM Software - which helped the company sign 4 new deals.
 
